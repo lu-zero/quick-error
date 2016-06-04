@@ -1,0 +1,3 @@
+var searchIndex = {};
+searchIndex["quick_error"] = {"doc":"A macro which makes errors easy to write","items":[[3,"Context","quick_error","",null,null],[12,"0","","",0,null],[12,"1","","",0,null],[8,"ResultExt","","",null,null],[10,"context","","",1,{"inputs":[{"name":"resultext"},{"name":"x"}],"output":{"name":"result"}}],[11,"fmt","","",0,{"inputs":[{"name":"context"},{"name":"formatter"}],"output":{"name":"result"}}],[11,"context","core::result","",2,{"inputs":[{"name":"result"},{"name":"x"}],"output":{"name":"result"}}],[14,"quick_error!","quick_error","Main macro that does all the work",null,null]],"paths":[[3,"Context"],[8,"ResultExt"],[4,"Result"]]};
+initSearch(searchIndex);
